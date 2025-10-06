@@ -20,9 +20,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 | Image 1 | Image 2 | Image 3 |
 |----------|----------|----------|
-| ![Image 1](./assets/images/preview/image1.png) | ![Image 2](./assets/images/preview/image2.png) | ![Image 3](./assets/images/preview/image3.png) |
+| ![Image 1](./assets/images/preview/Image1.png) | ![Image 2](./assets/images/preview/Image2.png) | ![Image 3](./assets/images/preview/Image3.png) |
 
 | Image 4 | Image 5 |
 |----------|----------|
-| ![Image 4](./assets/images/preview/image4.png) | ![Image 5](./assets/images/preview/image5.png) |
+| ![Image 4](./assets/images/preview/Image4.png) | ![Image 5](./assets/images/preview/Image5.png) |
 
